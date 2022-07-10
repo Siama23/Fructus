@@ -13,6 +13,7 @@
 		D65AC3AB286C0DC40039C16F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D65AC3AA286C0DC40039C16F /* Preview Assets.xcassets */; };
 		D65AC3B4286C750C0039C16F /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65AC3B3286C750C0039C16F /* FruitCardView.swift */; };
 		D65AC3B6286C83740039C16F /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65AC3B5286C83730039C16F /* StartButtonView.swift */; };
+		D6867678287A9DCB00D434D7 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6867677287A9DCA00D434D7 /* OnboardingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		D65AC3AA286C0DC40039C16F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D65AC3B3286C750C0039C16F /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
 		D65AC3B5286C83730039C16F /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
+		D6867677287A9DCA00D434D7 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 			children = (
 				D65AC3A3286C0DB90039C16F /* FructusApp.swift */,
 				D65AC3A5286C0DB90039C16F /* ContentView.swift */,
+				D6867677287A9DCA00D434D7 /* OnboardingView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				D65AC3B4286C750C0039C16F /* FruitCardView.swift in Sources */,
 				D65AC3B6286C83740039C16F /* StartButtonView.swift in Sources */,
 				D65AC3A6286C0DB90039C16F /* ContentView.swift in Sources */,
+				D6867678287A9DCB00D434D7 /* OnboardingView.swift in Sources */,
 				D65AC3A4286C0DB90039C16F /* FructusApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
